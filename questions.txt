@@ -1,0 +1,3 @@
+1;Which one of these is a string?;"hello";'i';bye;'hi';1;All strings are enclosed in double quotation marks.
+1;Which one of these is a string?;"hello";'i';bye;'hi';1;All strings are enclosed in double quotation marks.
+2;How do you declare a file?;aFile = new File("aFile.txt");File aFile = new File("aFile.txt");File aFile = File("aFile.txt");String aFile = new File("aFile.txt");2;I dont't even know...
